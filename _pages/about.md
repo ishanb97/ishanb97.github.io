@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: About Me
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the front page of a website that is powered by the [academicpages template]Howdy!
+
+I'm a first year PhD student in the Computer Science Department of UT Austin. I'm fortunate to be advised by Prof. Inderjit Dhillon and co-advised by Prof. Sujay Sanghavi. My main research interest is the design of efficient and provable machine learning and deep learning algorithms. In general, I like solving mathematical problems based on linear algebra, probability & statistics, optimization, etc. which are ubiquitous in machine learning.
+
+Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, Indian Institute of Technology (IIT) Bombay. At IIT Bombay, I've worked under the guidance of Prof. Subhasis Chaudhuri on some probabilistically provable theoretical aspects of neural networks and algorithmic aspects of large-scale optimization for my final thesis. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
+
+You can check out my CV [here]({{ site.url }}/assets/CV_Rudra.pdf).
+
+Publications & Competitions
+
+"On the Separability of Classes with the Cross-Entropy Loss Function" - Rudrajit Das and Subhasis Chaudhuri.
+
+Pre-print. Download paper here.
+
+"Extremal Eigenvalue Analysis of the Hessian and a Learning Rate Choice for Stochastic Gradient Descent" - Rudrajit Das and Subhasis Chaudhuri.
+
+Pre-print. Manuscript available on request.
+
+"On the Convergence of a Biased Version of Stochastic Gradient Descent" - Rudrajit Das, Jiong Zhang and Inderjit Dhillon.
+
+Accepted for poster presentation in "Beyond First Order Methods in ML" workshop in NeurIPS 2019.
+
+"Nonlinear Blind Compressed Sensing under Signal-Dependent Noise" - Rudrajit Das and Ajit Rajwade.
+
+Accepted for presentation in IEEE International Conference on Image Processing (ICIP) 2019. Download paper here.
+
+"Sparse Kernel PCA for Outlier Detection" - Rudrajit Das, Aditya Golatkar and Suyash Awate.
+
+Accepted for oral presentation in IEEE International Conference on Machine Learning and Applications (ICMLA) 2018. Download paper here.
+
+iFood Challenge, FGVC Workshop, CVPR 2018 - Parth Kothari^, Arka Sadhu^, Aditya Golatkar^, Rudrajit Das^ (^ denotes equal contribution).
+
+Finished $2^{nd}$ in the public leaderboard and $3^{rd}$ in the private leaderboard (Team name : Invincibles). Leaderboard Link. Invited to present our method at CVPR 2018 (slides can be found here).
+
+"Some Probabilistically Provable Theoretical Aspects of Neural Networks and Algorithmic Aspects of Large-Scale Optimization" - Bachelor's & Master's Thesis. Awarded the Undergraduate Research Award (URA-03) for exceptional work in thesis. Download here.
+
+Internships
+
+Institute for Biomechanics, ETH Zürich, Switzerland (May '17 - July '17)
+Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST
+
+Proposed a stable linear model (with closed form solution) and a fuzzy boolean network for bone re-modelling.
+Also developed an automated 2D-3D image registration framework for histology images from scratch. Devised an efficient sampling strategy to obtain the 2D projection of the 3D image across any plane and a good cost function to deal with the highly non-convex nature of the problem.
+Altisource Business Solutions Private Limited, Bengaluru, India (May '16 - July '16)
+
+Developed a notification system using Pagerduty, a popular incident management software, and worked on the UI of the company’s monitoring dashboard built using JBoss Dashbuilder
 
 A data-driven personal website
 ======
