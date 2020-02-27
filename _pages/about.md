@@ -14,6 +14,6 @@ I'm a first year Masters student in the Computer Science Department of Universit
 
 Previously, I was a bachelor student in the Department of Information Technology Engineering, Thadomal Shahani Engineering College which is affiliated to Mumbai University.
 
-You can check out my CV [here]({{ site.url }}/assets/CV_Rudra.pdf).
+You can check out my CV [here]({{ site.url }}/assets/IshanResumeF19InternML.pdf).
 
 Publications & Competitions
